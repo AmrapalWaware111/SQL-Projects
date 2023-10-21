@@ -48,3 +48,5 @@ The top customers who spent the most on music for each country were found.
 # Overview Of Project :
 This database is about Music store which is contains of different tables shown in below in Schema -  
 
+![MusicDatabaseSchema](https://github.com/AmrapalWaware111/SQL-Projects/assets/111006825/f69f7139-9122-4d84-ab2f-7aeae9b30a57)
+
